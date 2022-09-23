@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphOxyPlot", "GraphOxyPlot\GraphOxyPlot.csproj", "{DB11FFF2-3D9B-41FA-91E5-60699952C53A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB11FFF2-3D9B-41FA-91E5-60699952C53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB11FFF2-3D9B-41FA-91E5-60699952C53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB11FFF2-3D9B-41FA-91E5-60699952C53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB11FFF2-3D9B-41FA-91E5-60699952C53A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F5B3410-1874-4E8B-B0F1-357FB9BCDCCA}
+	EndGlobalSection
+EndGlobal
